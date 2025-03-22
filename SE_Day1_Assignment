@@ -1,0 +1,92 @@
+SE_Day1_Assignment
+
+#Part 1: Introduction to Software Engineering
+1.	Explain what software engineering is and discuss its importance in the technology industry.
+a.	Software engineering is a branch of computer science that is used for creating and maintaining software. It requires varied skills in different programming languages.
+b.	Its importance in technology is:
+i.	As the digital space grows, the security of various aspects of technology needs to be secured. Two-factor authentication, authorization, and encryption are among some of the methods used.
+ii.	It ensures that the system being made is flexible with the amount of growth that it is projected to have.
+iii.	It ensures the capability of the system to run as needed and to maintain the same high standards it was created for.
+iv.	It ensures the reliability of the system to run at critical points for critical jobs.
+
+2.	Identify and describe at least three key milestones in the evolution of software engineering.  
+.mastering complexity
+Mastering process
+Mastering machine
+
+3.	List and briefly explain the phases of the Software Development Life Cycle.
+a.	Planning stage – at this stage you get to plan out how the project is supposed to go. It provides an outline for the development of the new systems. The possible problems to faced as well as the achievemnts to be gained are planned
+b.	Feasibility or requirements of analysis stage – this is where all the necessary details for a new system are gathered and put together for the first ideas of the prototypes. This includes specifications for software, hardware, and network requirements.
+c.	Design and prototyping stage – this is when the details for the overall application as well as user and system interfaces, databases as well as network and network requirements. Everything is put in clearer and more concise fashion.
+d.	Software development stage -  this is where developers come into play, creating the code based on the earlier design documents and outlined specifications.
+e.	Software testing stage – created software is then tested and changes made to it are recorded. This allows for the improvement of the software and ensures it works as great as possible before being launched.
+f.	Implementation and integration stage – this stage is when the system gets integrated into the existing system. It is tried by the people/company it is meant for and they give a better look at it. 
+g.	Operation and maintenance stage -  at this stage the software is only looked at for maintenance and nothing else.
+
+4.	Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+a.	Waterfall is a project management tool that is a linear step-by-step guideline and has a clear scope and precise timeline of how things get executed. It requires minimal adaptation or creative space.
+i.	Waterfall is used when the scope and requirement of the project are small and the commitment to it is long-term. This is also used when the end is predictable and the process is extremely structured.
+b.	Agile is a project management tool that is flexible and more adaptable to changes that occur during the project execution.
+i.	Agile is used when the project is to undergo frequent iterations and changes as the project keeps growing. This type of project management tool is used when multiple stakeholders are collaborating for a singular project.
+
+5.	 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+a.	Software Developer
+i.	Their primary job is to design software systems, and the code for it, and they test the code before deploying it for users to try it out and integrate it into their existing systems. They also provide maintenance and updates to the existing software.
+ii.	Responsibilities include: analyzing user needs and creating software based on it. Design and create the code for the software. Test it and provide a much better version after fixing the problems found in the testing phase. They deploy it. Provide maintenance, fix bugs, and update the software after it has been in use.
+b.	Quality Assurance Engineer
+i.	This is the person who monitors every phase of software development life cycle.
+ii.	Their responsibilities include: designing and executing various tests to verify functionality and quality, identifying and documenting bugs and inconsistencies, and analyzing what causes the problems in the software.
+c.	Project Manager
+i.	This is the person who plays the leading role in coordinating the different elements of a project, aiming for the timely completion of the project within budget and with high standards.
+
+6.	Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+a.	IDE Integrated Development Environment -  this is a software platform that is used as a space for the creation of software applications. It is used for writing, compiling, and debugging code. An example could be Visual Studio Code.
+i.	Due to the various rules and structures of different programming languages, IDEs already have inbuilt instructions making it easier for software developers to get immediate feedback.
+ii.	It suggests completions for the code being written while the developer is still writing it.
+iii.	They increase programmer productivity by handling the more mundane and repetitive tasks.
+iv.	IDE provides an instant conversion of code from machine-readable code to human-readable form. This allows for both ends to understand and make changes when necessary.
+v.	IDE has embedded debugging going through each line individually. This makes it faster and more accurate. They work in real time.
+b.	VCS Version Control System - this is a software tool that helps teams manage changes to code over time. An example could be Git.
+i.	Enables for the tracking of changes made to the code. This history is kept for future analysis.
+ii.	Allows for the collaboration of different developers on one project without causing any overlaps.
+iii.	It allows for retrieval of previous versions of code when errors are made.
+c.	Supports different branches being created apart from the main code. Allows for merging of both the branches and main code.
+
+7.	 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+a.	Rapidly changing technology
+i.	With how fast technology is growing, there is a need to adapt to it to come out at the top of the new market that will be forming it.
+ii.	The solution to it is: to use agile methodologies to have continuous adaptation to the technologies. Have continuous learning practices to maintain their curve.
+b.	Tight deadlines
+i.	Software engineering is a demanding and time-intensive field. It requires them to work under high pressure to meet the deadlines.
+ii.	Solution for it is: some methodology such as Scrum to streamline workflow by dividing large projects into more manageable portions.
+c.	Quality assurance
+i.	The code to create a project can sometimes not match the quality that is intended when planning it.
+ii.	Solution for it is: 
+d.	Managing stakeholder expectations
+i.	With stakeholders they keep changing how they want the project to look or work. This makes it challenging for the software developers to keep up with the requirements.
+ii.	The solution to this is: to use methodologies that allow adaptation as it progresses. Makes it easier to manage without having to start over.
+e.	Communication issues
+i.	Big teams can have miscommunication leading to different results than intended.
+ii.	The solution for it is: having one form of communication i.e. telegram or discord. Allows for most of it to be tracked. 
+f.	Security
+i.	With the growth of software there are some complex methods of getting information illegally.
+ii.	The solution to it is: to research and implement new ways of securing software from hacking, phishing, or third-party threats.
+
+8.	Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+a.	Unit tests – very low level and closer to the source of an application. Consist of testing individual methods and functions of classes, components, or modules used by the software. They are cheap to automate and run quickly.
+b.	Integration tests – verify different modules or services used by the application work well together. i.e. database interacting with the software. It is more expensive and requires multiple parts of the application to be up and running.
+c.	System tests – it focuses on the system as a whole. These tests evaluate what part of the system is functional, and non-functional requirements including performance, security, and usability.
+d.	Acceptance testing – it focuses on whether the system satisfies business requirements. this is for the user end to ensure that it works just fine. This is to confirm it works as it should
+
+#Part 2: Introduction to AI and Prompt Engineering
+1.	Define prompt engineering and discuss its importance in interacting with AI models.
+a.	Prompt engineering is the process of guiding generative artificial intelligence solutions to generate desired outputs.
+i.	Its importance is: to make it easy to get results with the first prompt. It helps reduce bias that could exist with human beings. Allows for prompt engineers to control user interactions with the AI. It is flexible in that it allows the highlighting io logical links and broad patterns.
+
+2.	Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+a.	Give me a crochet doll pattern
+b.	Give me a crochet pattern for a human doll with pink hair, and brown skin, wearing a blue dress and white socks.
+c.	i. clarity – improves the focus on the type of doll and not just any doll.
+i.	clarity – improves the focus on the type of doll and not just any doll.
+ii.	Specific details – describe the doll's appearance skin tone, hair, dress color, socks, and hair color.
+iii.	Concise – additional details make it easier to understand it. Makes it easier for the artist to understand what is needed.
