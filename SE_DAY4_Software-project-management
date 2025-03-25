@@ -1,0 +1,76 @@
+SE_DAY4_Software-Project-Management
+1.	Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
+a.	Timely delivery in software project management is an important step in ensuring the client gets the best quality work in the allocated time frame. This is the deadline that defines the time allocated to it. Missed deadlines can lead to lost trust among the stakeholders and increased costs for the continuation of the project among other things.
+b.	Project managers can ensure that projects are still on track and before the deadline by;
+i.	Defining the objectives of the project at the beginning to the team for everyone to know what they are working on.
+ii.	Encourage accountability among team members as everyone knows what they are meant to be handling and the expectations.
+iii.	Having regular check-ins with the team to make sure that they are still on time for the project. They can use project management tools of their liking to achieve this.
+iv.	Prioritize communication with the team so that nothing can be lost or misunderstood.
+2.	How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+a.	Effective control is when certain controls are used to ensure the project is running smoothly, and within the budget, and all risks are prevented or mitigated. This helps in keeping the stakeholders trust and preventing overruns in the proposed budget.
+b.	A couple of ways of preventing budget runs are;
+i.	Setting up a detailed budget plan to be presented to the stakeholders for approval. This budget details the potential costs and makes sure nothing of importance gets overlooked.
+ii.	Rely on current industry-standard tools that are used for cost estimation.
+iii.	Make a clear and defined project scope with a strict policy of no changes being made to it by anyone without all the parties involved in it.
+iv.	Use systems that can track software development costs in real-time and allow for any irregularities to be addressed immediately.
+v.	Have all the resources accessible to those who need it without taking it from someone who needs it.
+3.	Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+a.	Agile methodology is used in software development for continuous, small, and rapid cycles of software development while waterfall methodology is used for software development that is structured working from one level to another, needing a level fully completed before going to the next level.
+b.	Advantages and disadvantages of agile methodology are;
+i.	Advantages; adapts to changes easily and incorporates them into the software. It focuses mainly on the user’s feedback to better the software. It emphasizes collaboration between team members to make it more functional.
+ii.	Disadvantages; the effects of changes made are unpredictable until it added to the software. Its flexibility can lead to unmitigated expansion of the project scope. It is a demanding and highly overwhelming
+c.	Advantages and disadvantages of waterfall methodology include;
+i.	Advantages; they are clear and well-defined making it easier to plan and manage the project. With the structure and timeline, it is easy to predict how far the has come.it has extensive documentation that will be used as reference in the case it is needed.
+ii.	Disadvantages: changes to the requirements can be harder to implement because of the progress, requiring starting from square one. Feedback from users is delayed as only the finished product is launched for them to test out. With poor definitions of requirements, the project may struggle and eventually fail.
+4.	In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+a.	With the different approaches of agile and waterfall methodologies, they also approach projects differently.
+b.	Agile is more beneficial in projects with unclear requirements that will likely be altered or expanded on later on in the project. The project will also be getting frequent feedback from the stakeholders as well as the users. Examples include startups on social media for small business owners.
+c.	Waterfall is more structured and will be getting more well-defined with its requirements. There will be little to no changes being made to the project. Documentation and the sequential development of the project has it on track with a set timeline. Examples include developing a software for a healthcare clinic that must adhere to the rules that healthcare providers follow.
+5.	What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+a.	Quality assurance is a crucial step for ensuring that the requirements of a software function as required and have met and exceeded the user’s expectations. This builds the company’s reputation and further proves it is reliable in creating great software.
+b.	Methods of ensuring quality assurance in a software project include;
+i.	Together with the stakeholders, establish clear software requirements for the software and communicate them to the team efficiently.
+ii.	Adopt one testing strategy throughout the software development life cycle to keep the high standards it starts with.
+iii.	Conduct constant code reviews with the intent of correcting issues early enough to provide more focus to the software.
+iv.	Constantly test the end user’s perspective to resolve any usability issues before release.
+v.	Follow security protocols, industry standards, and guidelines to ensure there is a high-quality deliverable.
+c.	Importance of maintaining quality assurance is;
+i.	Quality assurance is important due to various reasons like; improving user experience, minimizing risks, and boost the project’s success.
+6.	How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+a.	The project scope is defined as the foundation of a successful project, in project planning defining this part clearly and concisely will have the project working well. It needs to have objectives, deliverables, timelines, and resources to be well-defined. Project scope is important in that it intends to control growth and any rewrites will be controlled.
+b.	Work Breakdown Structure (WBS) is the breakdown of a large project into smaller more manageable pieces. It is useful in; identifying risks at a lower level and countering them, assigning tasks to individuals that are responsible for completing them, organizes the work into trackable schedules, and provides a physical representation of tasks, who is responsible for it, and how it incorporates into the team.
+7.	What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+a.	When developing a project, being as detailed as possible is advised. The details are put into documentation for the project. Some of the benefits of the project scope is team coordination, progress tracking, and prioritization. Gantt charts are an example of part of this documentation.
+b.	Gantt charts are a visual representation of the project’s schedule creatively and clearly. This provides a detailed representation of tools that keep everything aligned, organized, and all the focus on the project. It assists the project by providing simple visualization, tracking milestones, and providing real-time updates.
+8.	What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+a.	The core issues that project management software typically aims to address revolve around improving organization, efficiency, and collaboration. Here are some common challenges that such software targets:
+b.	
+c.	These problems are significant to the target audience because they directly impact project success and productivity. For project managers, teams, and stakeholders, inefficiencies mean wasted time, increased costs, and frustrated clients. With better tools, they can focus on delivering high-quality results without the headaches of poor coordination.
+d.	What made you interested in these core issues? I'd love to hear your per
+9.	How can clearly defining the problem help in developing a more effective software solution?
+a.	Clearly defining a problem is beneficial to software development in that it offers;
+i.	Clear understanding of the problem being solved. Both the developers and stakeholders can get to understand it in order to have similar expectations and eliminate miscommunication.
+ii.	It guides what the solution design should look like. Creates one blueprint that will be used for building the solution.
+iii.	It reduces the amount that would be used on unnecessary resources.
+iv.	With a clear problem to solve the requirements required will be gathered and this will provide the exact product the team intended.
+v.	There is better collaboration and communication between team members as they know what needs to be focused on.
+10.	How would you describe your software solution in a way that captures its essence without diving into technical details?
+a.	Think of a digital platform that simplifies the complexities of yarn crafts. Maybe putting patterns, tutorials, tools, and products all in one place. Providing beginners and veterans with one central place to communicate and provide support. My software is being designed to focus on managing different tasks and timelines. It is designed to be a command center with all the different aspects of crochet detailed into one place for the ease of everyone who needs it. It tracks projects, any changes made to them, keeps the work organized, and acts as a communicator. It takes away anything overwhelming and keeps it as a relaxed process.
+11.	What are the main features or functionalities that make your software stand out?
+a.	Have a place for customers to leave reviews and ratings to build trust with the sellers.
+b.	Have a blog for communication between the developer team and the users, as well as between the users themselves.
+c.	Have a dashboard for the sellers to advertise their products and classes for tutorials. To give an insight into what is being offered.
+d.	Have an easy use product management software so user can manage their inventory, pricing, and how their pages look.
+e.	Have a clean, aesthetically pleasing, and user-friendly interface to attract new users.
+f.	Have secure payment options to protect the financial and personal information of the customers.
+12.	What data is available regarding the market size and growth potential for your software?
+a.	Kenya has a continuously growing market for crochet clothes and accessories among the youth of the country. This applies to any and all handmade products. With the turning of new businesses to online stores, this is a new niche that can be tapped into.
+b.	For growth potential, there is a high chance that as the demand for handmade crochet items the market will grow with it to cater to the group’s needs. Some stores like Osana yarns show promise for growth as more people go through there. Crochet can easily be customizable to fit the customer’s preferences.
+13.	How can understanding market trends inform your software’s positioning and development?
+a.	Understanding market trends makes it easier to develop and position the platform to be successful. The process of this involves;
+i.	Identifying what the consumers want more of and is sustainable in the long run. Tailor the software to better fit into the needs of the consumer.
+ii.	Study already existing companies in the area of interest and how they operate. Figure out new ways to differentiate myself from the existing companies.
+iii.	Learn how to integrate the fast-growing world of technology with the project. AI and chatbots for customer communication can be part of this.
+iv.	Ensure that the platform caters to the users experience and how it meets the e-commerce standards of the modern market.
+v.	Build the software with future growth in mind and ensure that it can measure up to catering and housing it long-term.
+vi.	Have a way to market and provide a brand for the project. Influencer collaborations on social media to boost relativity of the project.
